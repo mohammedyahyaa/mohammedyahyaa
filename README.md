@@ -1,21 +1,15 @@
-## Hi there 👋
-
-I'm Mohamed Yahya, a Software Engineer from Egypt.
-
-- 🔭 I’m currently working on backend and middleware technologies, particularly IBM Cloud Pak for Integration (CP4I) and Java (Spring Boot).
-- 🌱 I’m currently learning new technologies and enhancing my skills in API development and cloud integration.
-- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 🤔 I’m looking for help with performance testing of software projects and advanced authentication mechanisms in Spring Boot.
-- 💬 Ask me about IBM App Connect, IBM MQ, Spring Boot, Log4j2, .NET Core APIs, SQL Server database, and Nginx configurations.
-- 📫 How to reach me: muhamedyahya97@gmail.com | https://www.linkedin.com/in/mohamed-yahya97/ 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was headhunted for my current job opportunity, which was an exciting career move.
+# 💫 About Me:
+## Hi there 👋<br><br>I'm Mohamed Yahya, a Software Engineer from Egypt.<br><br>- 🔭 I’m currently working on backend and middleware technologies, particularly IBM Cloud Pak for Integration (CP4I) and Java (Spring Boot).<br>- 🌱 I’m currently learning new technologies and enhancing my skills in API development and cloud integration.<br>- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.<br>- 🤔 I’m looking for help with performance testing of software projects and advanced authentication mechanisms in Spring Boot.<br>- 💬 Ask me about IBM App Connect, IBM MQ, Spring Boot, Log4j2, .NET Core APIs, SQL Server database, and Nginx configurations.<br>- 📫 How to reach me: muhamedyahya97@gmail.com | https://www.linkedin.com/in/mohamed-yahya97/ <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I was headhunted for my current job opportunity, which was an exciting career move.<br><br><br>## Skills<br>- **Languages:** Java, ESQL, SQL, C# , HTML , CSS , Javascript <br>- **Frameworks:** Spring Boot, Log4j2, .NET Core<br>- **Tools:** IBM App Connect, IBM MQ, IBM API Connect, IBM DataPower, Eclipse, Git, Nginx, SQL Server <br><br>## Get in Touch<br>Feel free to reach out to me through any of the platforms listed above. I'm always open to discussing new projects, ideas, and opportunities.<br>
 
 
-## Skills
-- **Languages:** Java, ESQL, SQL, C# , HTML , CSS , Javascript 
-- **Frameworks:** Spring Boot, Log4j2, .NET Core
-- **Tools:** IBM App Connect, IBM MQ, IBM API Connect, IBM DataPower, Eclipse, Git, Nginx, SQL Server 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammedyahyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedyahyaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedyahyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Get in Touch
-Feel free to reach out to me through any of the platforms listed above. I'm always open to discussing new projects, ideas, and opportunities.
+---
+[![](https://visitcount.itsvg.in/api?id=mohammedyahyaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
